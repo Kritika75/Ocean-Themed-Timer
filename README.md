@@ -46,5 +46,3 @@ It focuses on clean design and smooth user interaction, making it a great beginn
 ## License
 
 This project is open source and available under the MIT License.
-
-This project is open source and available under the MIT License.
